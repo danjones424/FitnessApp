@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Page = () => {
+const Workouts = () => {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Workouts</Text>
     </View>
   )
 }
 
-export default Page
+export default Workouts

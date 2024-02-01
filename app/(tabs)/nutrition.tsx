@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Page = () => {
+const Nutrition = () => {
   return (
     <View>
-      <Text>Home</Text>
+      <Text>Nutrition</Text>
     </View>
   )
 }
 
-export default Page
+export default Nutrition
